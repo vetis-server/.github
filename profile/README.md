@@ -31,7 +31,6 @@ The projects here are designed to stay small, composable, and fast without sacri
 ## Additional projects
 
 - [front](https://github.com/vetis-server/front) — Front-end or application-facing tooling associated with the Vetis ecosystem.
-- [onfire](https://github.com/vetis-server/onfire) — Experimental project within the organization.
 
 ## Why Vetis
 
