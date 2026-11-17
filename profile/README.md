@@ -20,20 +20,20 @@ The projects here are designed to stay small, composable, and fast without sacri
 
 ## Features and integrations
 
+- [vetis-auth](https://github.com/vetis-server/vetis-auth) — Authentication hooks and middleware for protecting Vetis services.
+- [vetis-dns](https://github.com/vetis-server/vetis-dns) — DNS and host-resolution hooks for routing, upstream discovery, and network integration.
+- [vetis-encode](https://github.com/vetis-server/vetis-encode) — Content-encoding and compression hooks for efficient response delivery.
 - [vetis-static](https://github.com/vetis-server/vetis-static) — Static file serving with caching and multi-runtime support.
 - [vetis-flash](https://github.com/vetis-server/vetis-flash) — Fast static-content serving utilities built on top of Vetis.
+- [vetis-log](https://github.com/vetis-server/vetis-log) — Logging extensions for structured request and application logs.
+- [vetis-matchers](https://github.com/vetis-server/vetis-matchers) — Request and response matchers for flexible route and response logic.
+- [vetis-otel](https://github.com/vetis-server/vetis-otel) — OpenTelemetry integration for traces, metrics, and observability.
 - [vetis-proxy](https://github.com/vetis-server/vetis-proxy) — HTTP proxy support for forwarding requests to upstream services.
 - [vetis-rev-proxy](https://github.com/vetis-server/vetis-rev-proxy) — Reverse proxy capabilities for Vetis applications.
 - [vetis-rewrite](https://github.com/vetis-server/vetis-rewrite) — URL rewrite hooks for adapting routing and request paths.
-- [vetis-matchers](https://github.com/vetis-server/vetis-matchers) — Request and response matchers for flexible route and response logic.
-- [vetis-dns](https://github.com/vetis-server/vetis-dns) — DNS and host-resolution hooks for routing, upstream discovery, and network integration.
-- [vetis-encode](https://github.com/vetis-server/vetis-encode) — Content-encoding and compression hooks for efficient response delivery.
-- [vetis-auth](https://github.com/vetis-server/vetis-auth) — Authentication hooks and middleware for protecting Vetis services.
-- [vetis-log](https://github.com/vetis-server/vetis-log) — Logging extensions for structured request and application logs.
-- [vetis-otel](https://github.com/vetis-server/vetis-otel) — OpenTelemetry integration for traces, metrics, and observability.
+- [vetis-rhai](https://github.com/vetis-server/vetis-rhai) — Rhai scripting integration for extensibility.
 - [vetis-ws](https://github.com/vetis-server/vetis-ws) — WebSocket support for interactive client-server communication.
 - [vetis-wt](https://github.com/vetis-server/vetis-wt) — WebTransport support for modern transport-level features.
-- [vetis-rhai](https://github.com/vetis-server/vetis-rhai) — Rhai scripting integration for extensibility.
 
 ## Additional projects
 
